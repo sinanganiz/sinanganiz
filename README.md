@@ -1,12 +1,10 @@
 **Hi, I'm Sinan 👋**
 
-I'm a Computer Engineer with a passion for building clean and efficient software.  
-Currently focused on backend development with **C#** and **.NET Core**.
+Software developer with a focus on building clean and efficient backend systems.  
+Currently working with **C#** and **ASP.NET Core**.
 
-[Linkedin →](https://www.linkedin.com/in/sinanganiz)  
-[Blog →](https://sinanganiz.com)  
+[→ Blog](https://sinanganiz.com) · [→ LinkedIn](https://www.linkedin.com/in/sinanganiz)
 
-**Tech Stack**
+---
 
-- **Languages:** ``C#``, ``Golang``, ``JavaScript``
-- **Frameworks:** .NET Core, ASP.NET, Entity Framework, React
+`C#` `.NET Core` `Golang` `SQL` `JavaScript` `React`
